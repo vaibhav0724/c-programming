@@ -12,9 +12,8 @@ int main()
  return 0; 
 } 
 /* Answer would be :
-sizeof arri[] = 12 (size of arrray is 3 and it is of type int . size=3*4=12)
+sizeof arri[] = 12 (size of arrray is 3 and it is of type int 3*4=12)
 sizeof ptri = 8 (ptri is a pointer which will hold a hexadecimal number thereby occupies 8 bytes)
-sizeof arrc[] = 3 (size of arrray is 3 and it is of type char . size=3*1=3)
-sizeof ptrc = 8 (ptri is a pointer which will hold a hexadecimal number thereby occupies 8 bytes)
-[THIS ANSWER IS NOT IN EITHER OF THE OPTIONS PROVIDED]
+sizeof arrc[] = 3 (size of arrray is 3 and it is of type char 3*1=3)
+sizeof ptrc = 8 (ptrc is a pointer which will hold a hexadecimal number thereby occupies 8 bytes)
 */
